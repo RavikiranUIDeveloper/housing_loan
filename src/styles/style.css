@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Roboto-bold';
-    src: url('/assets/Roboto_Condensed/RobotoCondensed-Bold.ttf');
+    src: url('../../assets/Roboto_Condensed/RobotoCondensed-Bold.ttf');
 }
 @font-face {
     font-family: 'Roboto-regular';
-    src: url('/assets/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+    src: url('../../assets/Roboto_Condensed/RobotoCondensed-Regular.ttf');
 }
 @font-face {
     font-family: 'Lato';
-    src: url('/assets/Lato/Lato-Regular.ttf');
+    src: url('../../assets/Lato/Lato-Regular.ttf');
 }
 h1
 {
@@ -57,7 +57,7 @@ section
 /* Hero section */
 .hero-section
 {
-    background-image: url('/public/images/hero-banner.jpg');
+    background-image: url('../../public/images/hero-banner.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-color: rgba(3, 10, 17, 0.8);
@@ -135,7 +135,7 @@ section
 }
 .services-section
 {
-    background-image: url('/public/images/image-2.jpg');
+    background-image: url('../../public/images/image-2.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-color: rgba(16, 55, 93, 0.5);
